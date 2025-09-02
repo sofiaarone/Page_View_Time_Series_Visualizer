@@ -9,6 +9,7 @@ This project aims to visualize daily page views on the freeCodeCamp forum using 
 The dataset was provided as part of the project: fcc-forum-pageviews.csv.
 
 Columns:
+
 - Date - Date of the page view (YYYY-MM-DD)
 
 - Value - Number of page views on that day
