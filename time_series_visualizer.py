@@ -1,3 +1,5 @@
+import matplotlib
+matplotlib.use("Agg")  # generate images directly
 import matplotlib.pyplot as plt
 import pandas as pd
 import seaborn as sns
